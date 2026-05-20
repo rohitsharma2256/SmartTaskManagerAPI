@@ -3,7 +3,7 @@ About the Project
 
 Spring Boot Task Manager API is a backend application for managing tasks efficiently. It demonstrates skills in Java, Spring Boot, RESTful API development, and PostgreSQL integration. Ideal for showcasing backend development expertise in your GitHub portfolio.
 
-Features
+Features:-
 
 Create, read, update, and delete tasks
 
